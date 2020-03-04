@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: cb960f137965446418925e2bfaca80fc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 0
+  fontName: SU-30SM
+  fontNames:
+  - SU-30SM
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d407530a379cf24b8d1cf2f2b337da3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
